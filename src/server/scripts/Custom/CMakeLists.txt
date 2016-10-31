@@ -16,7 +16,7 @@ set(scripts_STAT_SRCS
  # ${scripts_Custom}
  
 Custom/System_Censure.cpp
-Custom/auto_quest_complete.cpp
+Custom/AutoQuestComplete.cpp
 Custom/fake_commandscript.cpp
 Custom/VipSystemCommands.cpp
 Custom/morphs_npc.cpp
