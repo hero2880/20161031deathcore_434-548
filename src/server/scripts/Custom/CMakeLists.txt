@@ -23,7 +23,7 @@ Custom/morphs_npc.cpp
 Custom/npc_visualweapon.cpp
 Custom/sistema_gold.cpp
 Custom/token_vip_30d.cpp
-Custom/token_vip_60d.cpp
+Custom/VIP_Item_60d.cpp
 Custom/token_vip_120d.cpp
 Custom/token_vip_240d.cpp
 Custom/token_vip_480d.cpp
