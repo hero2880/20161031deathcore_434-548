@@ -20,7 +20,7 @@ Custom/auto_quest_complete.cpp
 Custom/comando_fake_players.cpp
 Custom/comando_vip.cpp
 Custom/morphs_npc.cpp
-Custom/npc_visual_weapon.cpp
+Custom/npc_visualweapon.cpp
 Custom/sistema_gold.cpp
 Custom/token_vip_30d.cpp
 Custom/token_vip_60d.cpp
