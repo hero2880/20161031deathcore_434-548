@@ -19,7 +19,7 @@ Custom/anti_divulgador.cpp
 Custom/auto_quest_complete.cpp
 Custom/comando_fake_players.cpp
 Custom/comando_vip.cpp
-Custom/npc_morph.cpp
+Custom/morphs_npc.cpp
 Custom/npc_visual_weapon.cpp
 Custom/sistema_gold.cpp
 Custom/token_vip_30d.cpp
