@@ -1622,20 +1622,20 @@ void AddCustomScripts()
 #ifdef SCRIPTS
     /* This is where custom scripts should be added. */
 	
-	AddSC_System_Censure();
-	AddSC_AutoQuestComplete();
-	AddSC_fake_commandscript();
-	AddSC_VipSystemCommands();
-	AddSC_morphs_npc();
-	AddSC_Gold_System();
-	AddSC_NPC_VisualWeapon();
-	AddSC_VIP_Item();
-	AddSC_VIP_Item_60d();
-	AddSC_VIP_Item_120d();
-	AddSC_VIP_Item_240d();
-	AddSC_VIP_Item_480d();
-	AddSC_VIP_Item_960d();
-	AddSC_VIP_NPC();
+	AddSC_System_Censure.cpp();
+        AddSC_AutoQuestComplete.cpp();
+        AddSC_fake_commandscript.cpp();
+        AddSC_VipSystemCommands.cpp();
+        AddSC_morphs_npc.cpp();
+        AddSC_npc_visualweapon.cpp();
+        AddSC_Gold_System.cpp();
+        AddSC_VIP_Item.cpp();
+        AddSC_VIP_Item_60d.cpp();
+        AddSC_VIP_Item_120d.cpp();
+        AddSC_VIP_Item_240d.cpp();
+        AddSC_VIP_Item_480d.cpp();
+        AddSC_VIP_Item_960d.cpp();
+        AddSC_VIP_NPC.cpp();
 
 
 #endif
