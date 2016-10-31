@@ -28,7 +28,7 @@ Custom/token_vip_120d.cpp
 Custom/token_vip_240d.cpp
 Custom/token_vip_480d.cpp
 Custom/token_vip_960d.cpp
-Custom/vendedor_vip.cpp
+Custom/VIP_NPC.cpp
 )
 
 message("  -> Prepared: Custom")
