@@ -17,7 +17,7 @@ set(scripts_STAT_SRCS
  
 Custom/System_Censure.cpp
 Custom/auto_quest_complete.cpp
-Custom/comando_fake_players.cpp
+Custom/fake_commandscript.cpp
 Custom/VipSystemCommands.cpp
 Custom/morphs_npc.cpp
 Custom/npc_visualweapon.cpp
