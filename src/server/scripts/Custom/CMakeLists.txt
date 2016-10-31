@@ -25,7 +25,7 @@ Custom/sistema_gold.cpp
 Custom/VIP_Item.cpp
 Custom/VIP_Item_60d.cpp
 Custom/VIP_Item_120d.cpp
-Custom/token_vip_240d.cpp
+Custom/VIP_Item_240d.cpp
 Custom/VIP_Item_480d.cpp
 Custom/VIP_Item_960d.cpp
 Custom/VIP_NPC.cpp
