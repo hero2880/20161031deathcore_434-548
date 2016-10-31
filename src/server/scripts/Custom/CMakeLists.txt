@@ -18,7 +18,7 @@ set(scripts_STAT_SRCS
 Custom/anti_divulgador.cpp
 Custom/auto_quest_complete.cpp
 Custom/comando_fake_players.cpp
-Custom/comando_vip.cpp
+Custom/VipSystemCommands.cpp
 Custom/morphs_npc.cpp
 Custom/npc_visualweapon.cpp
 Custom/Gold_System.cpp
