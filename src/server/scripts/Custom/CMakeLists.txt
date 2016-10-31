@@ -21,7 +21,7 @@ Custom/comando_fake_players.cpp
 Custom/comando_vip.cpp
 Custom/morphs_npc.cpp
 Custom/npc_visualweapon.cpp
-Custom/sistema_gold.cpp
+Custom/Gold_System.cpp
 Custom/VIP_Item.cpp
 Custom/VIP_Item_60d.cpp
 Custom/VIP_Item_120d.cpp
