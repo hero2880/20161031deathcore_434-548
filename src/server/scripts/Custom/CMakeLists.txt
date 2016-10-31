@@ -15,7 +15,7 @@ set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
  # ${scripts_Custom}
  
-Custom/anti_divulgador.cpp
+Custom/System_Censure.cpp
 Custom/auto_quest_complete.cpp
 Custom/comando_fake_players.cpp
 Custom/VipSystemCommands.cpp
