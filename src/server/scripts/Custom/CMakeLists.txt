@@ -24,7 +24,7 @@ Custom/npc_visualweapon.cpp
 Custom/sistema_gold.cpp
 Custom/VIP_Item.cpp
 Custom/VIP_Item_60d.cpp
-Custom/token_vip_120d.cpp
+Custom/VIP_Item_120d.cpp
 Custom/token_vip_240d.cpp
 Custom/token_vip_480d.cpp
 Custom/VIP_Item_960d.cpp
