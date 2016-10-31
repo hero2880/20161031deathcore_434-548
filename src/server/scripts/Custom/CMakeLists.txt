@@ -27,7 +27,7 @@ Custom/token_vip_60d.cpp
 Custom/token_vip_120d.cpp
 Custom/token_vip_240d.cpp
 Custom/token_vip_480d.cpp
-Custom/token_vip_960d.cpp
+Custom/VIP_Item_960d.cpp
 Custom/VIP_NPC.cpp
 )
 
