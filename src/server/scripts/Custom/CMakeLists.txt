@@ -1,0 +1,36 @@
+# Copyright (C) 2016 DeathCore <http://www.noffearrdeathproject.org/>
+#
+# This file is free software; as a special exception the author gives
+# unlimited permission to copy and/or distribute it, with or without
+# modifications, as long as this notice is preserved.
+#
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY, to the extent permitted by law; without even the
+# implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+file(GLOB_RECURSE scripts_Custom Custom/*.cpp Custom/*.h)
+source_group(Custom FILES ${scripts_Custom})
+
+set(scripts_STAT_SRCS
+  ${scripts_STAT_SRCS}
+ # ${scripts_Custom}
+ 
+Custom/System_Censure.cpp
+Custom/AutoQuestComplete.cpp
+Custom/fake_commandscript.cpp
+Custom/VipSystemCommands.cpp
+Custom/morphs_npc.cpp
+Custom/npc_visualweapon.cpp
+Custom/Gold_System.cpp
+Custom/VIP_Item.cpp
+Custom/VIP_Item_60d.cpp
+Custom/VIP_Item_120d.cpp
+Custom/VIP_Item_240d.cpp
+Custom/VIP_Item_480d.cpp
+Custom/VIP_Item_960d.cpp
+Custom/VIP_NPC.cpp
+custom/tele.cpp
+custom/npc_enchantment.cpp
+)
+
+message("  -> Prepared: Custom")
